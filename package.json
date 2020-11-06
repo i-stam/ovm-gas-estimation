@@ -1,5 +1,5 @@
 {
-  "name": "escrow-migration-poc",
+  "name": "ovm-gas-estimation",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,8 +16,8 @@
   "devDependencies": {
     "@nomiclabs/buidler-ethers": "^2.0.2",
     "@nomiclabs/buidler-waffle": "^2.1.0",
-    "@eth-optimism/solc": "^0.5.16-alpha.3",
-    "@eth-optimism/ovm-toolchain": "0.0.1-alpha.11",
+    "@eth-optimism/solc": "^0.5.16-alpha.4",
+    "@eth-optimism/ovm-toolchain": "0.0.1-alpha.12",
     "chai": "^4.2.0",
     "ethereum-waffle": "^3.1.1",
     "ethers": "^5.0.19"
